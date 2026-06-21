@@ -1,24 +1,24 @@
-# Hi there 👋, I'm Camilo!
+# ¡Hola 👋, soy Camilo!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Passionate%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=¡Bienvenido%20a%20mi%20Perfil!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Apasionado&descAlignY=51&descAlign=62" />
 </div>
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies & Frameworks**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development & Python**
-- 📫 How to reach me: **[Add your Email or Link]**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love coding!**
+- 🔭 Actualmente trabajando en **Proyectos Increíbles**
+- 🌱 Actualmente aprendiendo **Nuevas Tecnologías y Frameworks**
+- 👯 Buscando colaborar en **Proyectos de Código Abierto (Open Source)**
+- 💬 Pregúntame sobre **Desarrollo Web y Python**
+- 📫 Cómo contactarme: **[Añade tu Email o Enlace]**
+- 😄 Pronombres: **Él**
+- ⚡ Dato curioso: **¡Me encanta programar!**
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tecnologías
 
-### Languages & Frameworks
+### Lenguajes y Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### Tools & Platforms
+### Herramientas y Plataformas
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -34,26 +34,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilo1528&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Camilo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo1528&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Camilo1528&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="Estadísticas de GitHub de Camilo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo1528&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=es" alt="Lenguajes Principales" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Camilo1528&theme=tokyonight&no-frame=true&row=1&column=7" alt="Camilo's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Camilo1528&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos de Camilo" />
   </a>
 </div>
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Conecta conmigo
 
 <div align="center">
   <a href="https://linkedin.com/in/" target="_blank">
